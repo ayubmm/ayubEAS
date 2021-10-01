@@ -6,7 +6,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "build:eas:android": "eas build --profile development --platform android"
+    "build:eas:android:dev": "eas build --profile development --platform android"
   },
   "dependencies": {
     "@react-native-firebase/app": "^12.8.0",
