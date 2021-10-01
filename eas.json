@@ -1,7 +1,14 @@
 {
   "build": {
-    "release": {},
+    "release": {
+      "releaseChannel": "prod"
+    },
+    "staging": {
+      "releaseChannel": "dev",
+      "distribution": "internal"
+    },
     "development": {
+      "releaseChannel": "dev",
       "developmentClient": true,
       "distribution": "internal"
     }

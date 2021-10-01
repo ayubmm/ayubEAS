@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059202340053",
+    "project_id": "trying-eas",
+    "storage_bucket": "trying-eas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059202340053:android:959ed06f4769b3ae037e5c",
+        "android_client_info": {
+          "package_name": "com.nibrasplayproject.ayubEAS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059202340053-hmkoamkm1mginvqklretmmhso8843ca9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTo74HHEeqQyuv1k0m4l6LKCTSehg_dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059202340053-hmkoamkm1mginvqklretmmhso8843ca9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
